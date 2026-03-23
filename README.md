@@ -1,16 +1,57 @@
-## Hi there 👋
+# Hi, I'm Bishwadeep (Gon Chowdhury) 👋
 
-<!--
-**gc-bishwadeep/gc-bishwadeep** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## 🤖 I Build AI Automation Systems for Businesses
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+I am on a **100-day AI building challenge** — learning AI from scratch,
+building something new every single day, and documenting everything publicly.
+
+
+---
+
+
+## 🔨 What I Build
+- 🤖 AI Chatbots and Agents (Voiceflow, Botpress, Flowise)
+- ⚡ Business Automation (Make.com, n8n, Zapier)
+- 🎬 AI Video Ads (HeyGen, Runway, ElevenLabs)
+- 📧 AI Email and CRM Systems
+- 🗣️ Voice AI Agents (VAPI.ai)
+- 📱 AI-Powered Web and Mobile Apps
+
+
+---
+
+
+## 📌 Currently Working On
+- 🚀 100-day AI building challenge (Day 1 of 100)
+- 📹 Documenting everything on YouTube daily
+- 💼 Building my AI automation agency
+
+
+---
+
+
+## 📊 100-Day Progress
+| Metric | Count |
+|--------|-------|
+| Days completed | 1 |
+| Tools learned | 3 |
+| Projects built | 0 |
+| Clients served | 0 |
+
+
+---
+
+
+## 🔗 Find Me
+- 📹 YouTube: [https://www.youtube.com/@SimplifiedAIedu]
+- 💼 LinkedIn: [https://www.linkedin.com/in/bishwadeepgc/]
+- 📧 Contact: [hello.simplifiedmarkets@gmail.com]
+
+
+---
+
+
+*Updated daily. Follow along for the full 100-day journey.*
+
