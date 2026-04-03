@@ -1,0 +1,38 @@
+Bad Prompts vs Good Prompts
+1. General Clarity
+Bad Prompt:
+"Tell me about marketing."
+
+Good Prompt:
+"Explain digital marketing strategies for a small bakery targeting local customers in Delhi, including social media and offline tactics."
+
+2. Specificity
+Bad Prompt:
+"Write content for my business."
+
+Good Prompt:
+"Write a 150-word Instagram caption promoting a cheese pastry, targeting young adults, with a friendly and persuasive tone."
+
+3. Context Inclusion
+Bad Prompt:
+"Give ideas."
+
+Good Prompt:
+"Suggest 5 innovative product ideas for a bakery that specializes in viral desserts in a metropolitan Indian city."
+
+4. Output Format
+Bad Prompt:
+"Explain AI."
+
+Good Prompt:
+"Explain AI in bullet points with examples, followed by a short summary paragraph."
+
+5. Constraints
+Bad Prompt:
+"Help me build a website."
+
+Good Prompt:
+"Provide a step-by-step guide to build a simple bakery website using HTML, CSS, and JavaScript with no paid tools."
+
+Key Takeaway:
+Good prompts are specific, contextual, and include clear instructions on tone, format, and constraints.
