@@ -1,0 +1,32 @@
+# AI Blog Generator using Make.com + OpenAI
+
+## 🎥 Demo
+[https://youtu.be/J-kY6meQJzc]
+
+## ❓ Problem
+Writing blogs manually takes time and effort.
+
+## 💡 Solution
+Built an automated system that generates blog content using AI.
+
+## ⚙️ Workflow
+1. Input topic
+2. Trigger Make.com automation
+3. Send request to OpenAI API
+4. Receive generated blog content
+
+## 🛠️ Tools Used
+- Make.com (automation)
+- OpenAI API
+
+## 📊 Use Cases
+- SEO blog writing
+- Content automation
+- Marketing systems
+
+## 🚀 Key Learning
+Combining AI with automation creates powerful scalable systems.
+
+## 📁 Files
+- workflow.png
+- sample-output.txt
