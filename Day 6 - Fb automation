@@ -1,0 +1,27 @@
+# AI Social Media Automation using Make.com
+
+## 🎥 Demo
+[https://youtu.be/qir44V17MUE]
+
+## ❓ Problem
+Posting consistently on social media takes time and effort.
+
+## 💡 Solution
+Built an AI-powered system to generate and automate posts.
+
+## ⚙️ Workflow
+1. Input topic
+2. Generate content using AI
+3. Add hashtags automatically
+4. Prepare post for publishing
+
+## ⚠️ Challenge
+Image automation was not completed due to storage/integration requirements.
+
+## 🚀 Key Learning
+Automation requires handling both data and media for full functionality.
+
+## 📊 Use Cases
+- Social media management
+- Content automation
+- Marketing workflows
