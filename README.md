@@ -29,17 +29,6 @@ building something new every single day, and documenting everything publicly.
 - 💼 Building my AI automation agency
 
 
----
-
-
-## 📊 100-Day Progress
-| Metric | Count |
-|--------|-------|
-| Days completed | 1 |
-| Tools learned | 3 |
-| Projects built | 0 |
-| Clients served | 0 |
-
 
 ---
 
