@@ -1,0 +1,200 @@
+# Prompt-library
+
+# AI Prompt Library 🤖
+
+A growing collection of AI prompts for real business use cases.
+All prompts tested with Claude and ChatGPT.
+Built during my 100-day AI learning challenge.
+
+---
+
+## 📂 Categories
+
+* [Email Prompts](#email-prompts)
+* [Social Media Prompts](#social-media-prompts)
+* [Video Script Prompts](#video-script-prompts)
+* [Sales and Outreach Prompts](#sales-and-outreach-prompts)
+* [Research Prompts](#research-prompts)
+
+---
+
+## Email Prompts
+
+### 1. Professional Email Reply
+
+**Use case:** Reply to any business email professionally
+
+```
+You are a professional business assistant.
+Read this email: A client is asking about pricing and delivery timelines for bulk scented candle orders for a wedding.
+Write a professional, friendly, and concise reply.
+Keep it under 100 words.
+Do not use jargon.
+End with a clear next step.
+```
+
+---
+
+### 2. Cold Outreach Email
+
+**Use case:** Write a personalised cold email to a prospect
+
+```
+You are an expert sales copywriter.
+Write a cold email to Rohan who runs a premium bakery in Mumbai.
+I offer customised scented candles for gifting and brand collaborations.
+Reference this specific thing about their business: Their Instagram shows luxury dessert hampers.
+Keep it under 80 words.
+One clear call to action at the end.
+No salesy language.
+Sound like a human, not a robot.
+```
+
+---
+
+### 3. Follow-Up Email
+
+**Use case:** Follow up on a proposal or previous email
+
+```
+You are a professional consultant.
+Write a follow-up email for someone who has not replied to my proposal.
+Context: I sent a proposal for supplying customized candles for corporate Diwali gifting.
+Keep it under 50 words.
+Be warm, not pushy.
+Ask one simple question to restart the conversation.
+```
+
+---
+
+## Social Media Prompts
+
+### 4. LinkedIn Story Post
+
+**Use case:** Write a personal story post for LinkedIn
+
+```
+You are a LinkedIn content expert.
+Write a LinkedIn story post about: Starting a 100-day challenge to learn AI from scratch while building real business tools
+Structure: Hook (1 sentence) → Story (3-4 short paragraphs) → Lesson (1-2 sentences) → Question for engagement
+Use short lines with space between each.
+No hashtags in the post itself.
+Tone: honest, direct, human.
+```
+
+---
+
+### 5. Instagram Caption
+
+**Use case:** Write a caption for any business Instagram post
+
+```
+You are a social media manager for a handmade candle business.
+Write an Instagram caption for a post about: Aesthetic premium scented candles for wedding return gifts
+Start with a scroll-stopping first line.
+Include 2-3 lines of value.
+End with a question or call to action.
+Maximum 150 words.
+```
+
+---
+
+## Video Script Prompts
+
+### 6. YouTube Hook
+
+**Use case:** Write the opening 15 seconds of a YouTube video
+
+```
+You are a YouTube scriptwriter.
+Write 3 different hooks for a video about: How beginners can start trading with zero knowledge
+Each hook must be under 20 words.
+Each should create curiosity or promise a result.
+Do not start with Hello or Welcome.
+```
+
+---
+
+### 7. Full Video Ad Script
+
+**Use case:** Write a complete 45-second video ad
+
+```
+You are a direct response copywriter.
+Write a 45-second video ad script for: A premium handmade scented candle brand targeting wedding planners and gifting businesses
+Structure:
+- Hook: 1 sentence that stops scrolling
+- Problem: 1 sentence naming their pain
+- Solution: 2 sentences about the offer
+- Social proof: 1 sentence
+- CTA: 1 clear action
+Output the script only. No labels.
+```
+
+---
+
+## Sales and Outreach Prompts
+
+### 8. Discovery Call Questions
+
+**Use case:** Generate questions for a sales discovery call
+
+```
+You are a sales consultant.
+I sell AI automation solutions to small business owners in India.
+Generate 10 discovery call questions that uncover:
+- Their current pain points
+- How much the problem costs them
+- What they have tried before
+- Their budget signals
+- Their decision timeline
+Make each question open-ended.
+```
+
+---
+
+### 9. Proposal Summary
+
+**Use case:** Write the executive summary of a client proposal
+
+```
+You are a professional consultant.
+Write a 3-paragraph proposal executive summary.
+Client: Small e-commerce brand selling home decor products
+Problem they have: Low conversion rate and manual order handling
+Solution you are offering: AI-powered automation for customer support and sales funnels
+Result they will get: Increased conversions and reduced manual workload by 50%
+Tone: confident, clear, professional.
+No jargon.
+```
+
+---
+
+## Research Prompts
+
+### 10. Industry Research
+
+**Use case:** Research any industry quickly
+
+```
+You are a business analyst.
+Research the scented candle and home decor gifting industry in India in 2025.
+Give me:
+1. Top 5 operational challenges businesses in this industry face
+2. How technology is changing this industry right now
+3. 3 specific ways AI automation could help
+4. Average business size and revenue range
+Format as a structured report.
+```
+
+---
+
+## 📈 Progress
+
+* Day 2: Added first 10 prompts
+* More prompts added daily
+
+---
+
+*Part of my 100-day AI building challenge.*
+*New prompts added every few days.*
