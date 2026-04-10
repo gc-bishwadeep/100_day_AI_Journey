@@ -1,0 +1,30 @@
+# AI Email Automation System with Review Step
+
+## 🎥 Demo
+[https://youtu.be/THOq8kAwT_0]
+
+## ❓ Problem
+Responding to emails manually takes time and effort.
+
+## 💡 Solution
+Built an AI system that generates reply drafts automatically with a human review step.
+
+## ⚙️ Workflow
+1. Receive email
+2. Trigger automation
+3. Generate reply using AI
+4. Save as draft
+5. Review manually
+6. Send email
+
+## 🛠️ Tools Used
+- Make.com
+- AI (OpenAI)
+
+## 📊 Use Cases
+- Customer support
+- Business communication
+- Email management
+
+## 🚀 Key Learning
+Human-in-the-loop automation creates safer and more reliable systems.
