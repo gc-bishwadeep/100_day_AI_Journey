@@ -1,0 +1,26 @@
+# Zapier Email Automation (Form to Auto Reply)
+
+## 🎥 Demo
+[https://youtu.be/sQUI4FBLWiU]
+
+## ❓ Problem
+Manual responses to form submissions take time.
+
+## 💡 Solution
+Used Zapier to automate email replies when a form is submitted.
+
+## ⚙️ Workflow
+1. Form submission (trigger)
+2. Zapier automation
+3. Send email response
+
+## 🛠️ Tools Used
+- Zapier
+
+## ⚖️ Comparison
+Zapier vs Make.com:
+- Zapier: beginner-friendly
+- Make.com: more flexible
+
+## 🚀 Key Learning
+Choosing the right tool is as important as building the workflow.
